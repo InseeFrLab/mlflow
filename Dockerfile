@@ -1,4 +1,4 @@
-FROM inseefrlab/onyxia-python-minimal:py3.11.6
+FROM inseefrlab/onyxia-python-minimal:py3.12.2
 
 COPY requirements.txt /tmp/requirements.txt
 
